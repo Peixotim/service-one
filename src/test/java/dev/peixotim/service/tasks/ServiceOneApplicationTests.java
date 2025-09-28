@@ -1,4 +1,4 @@
-package dev.peixotim.serviceone;
+package dev.peixotim.service.tasks;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
